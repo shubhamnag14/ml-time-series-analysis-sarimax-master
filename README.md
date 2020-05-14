@@ -7,3 +7,5 @@ In this experiment, we use time series analysis technique to decompose our data 
     1-Trend (T)
     2-Seasonility (S)
     3-Residual (R)
+
+Once we need to get a statinory dataset before performing Time Series Analysis (TSA)
