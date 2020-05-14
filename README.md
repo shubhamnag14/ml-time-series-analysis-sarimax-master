@@ -13,4 +13,4 @@ Once we need to get a statinory dataset before performing Time Series Analysis (
  
  In EDA stage, we will be applying a bunch of techniques such as, boxploting, rolling statictics (mean, std) by time based features (year, month, day, weekday and quarter) to find out 2 components (trend, seasonility) out of 3 time series components over specific plots, rougly. Those plots will give reasonable feedback for TSA before starting it.
 
-In TSA stage, we will build different models for non-seasonal and seasonal approahes
+In TSA stage, we will build different models for non-seasonal and seasonal approahes by using ARIMA and SARIMAX
