@@ -2,4 +2,4 @@
 
 # ml-time-series-analysis-sarimax-master
 
-In this experiment,
+In this experiment, we use time series analysis technique to decompose our
