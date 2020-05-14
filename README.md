@@ -10,3 +10,5 @@ In this experiment, we use time series analysis technique to decompose our data 
 
 Once we need to get a statinory dataset before performing Time Series Analysis (TSA) flawlessly beacuse it would be easy making a predicition over a stationary dataset since it would already satisfy the preoperties of Normal Distribution in terms of mean and variance, roughly. So, we need to delve into the raw dataset by applying some EDA techniques to expose valuable insight of data related to trend, and seasonility if it is possible to observe in EDA. After we complete data analyis stage, we need to pick best available techniques
  (e.g ARIMA, SARIMAX) to perform on the dataset according to our knowledge we would get in EDA.
+ 
+ 
