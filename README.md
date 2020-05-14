@@ -15,4 +15,4 @@ Once we need to get a statinory dataset before performing Time Series Analysis (
 
 In TSA stage, we will build different models for non-seasonal and seasonal approahes by using ARIMA and SARIMAX in statsmodels package, respectively.
 
-Since the most challenging parts of TSA is finding optimum parameters(p,d,q) and (P,D,Q,S) of those techniques, we will be referring to Autocorrelation (ACF) and Partial Autocorrelation (PACF) functions to find out significant time correlations in terms of performing either
+Since the most challenging parts of TSA is finding optimum parameters(p,d,q) and (P,D,Q,S) of those techniques, we will be referring to Autocorrelation (ACF) and Partial Autocorrelation (PACF) functions to find out significant time correlations in terms of performing either time correlations in terms of performing either
