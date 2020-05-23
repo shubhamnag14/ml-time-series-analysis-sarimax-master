@@ -13,6 +13,6 @@ Once we need to get a statinory dataset before performing Time Series Analysis (
  
  In EDA stage, we will be applying a bunch of techniques such as, boxploting, rolling statictics (mean, std) by time based features (year, month, day, weekday and quarter) to find out 2 components (trend, seasonility) out of 3 time series components over specific plots, rougly. Those plots will give reasonable feedback for TSA before starting it...
 
-In TSA stage, we will build different models for non-seasonal and seasonal approahes by using ARIMA and SARIMAX in statsmodels package, respectively..
+In TSA stage, we will build different models for non-seasonal and seasonal approahes by using ARIMA and SARIMAX in statsmodels package, respectively...
 
 Since the most challenging parts of TSA is finding optimum parameters(p,d,q) and (P,D,Q,S) of those techniques, we will be referring to Autocorrelation (ACF) and Partial Autocorrelation (PACF) functions to find out significant time correlations in terms of performing either time correlations in terms of performing either Autoregression Model (AR) or Moving Average Model (MA), or Seanosal Autoregression (SAR) and Moving Average (SAM).
